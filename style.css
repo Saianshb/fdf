@@ -1,0 +1,81 @@
+html{
+    background-color: #E4F9F5;
+}
+body{
+    margin: 0px;
+    background-image: url(1000838.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    
+}
+.top h1{
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive, sans-serif, serif;
+    font-size: 5.625rem;
+}
+.top p{
+    font-family: 'Dancing Script', cursive, sans-serif, serif;
+    font-size: 2rem; 
+}
+div{
+    position: relative;
+    margin-top: 350px;
+    margin-left: 140px;
+}   
+.profile img{
+    margin-top: 250px;
+    border-radius: 50%;
+
+}
+.profile h2{
+    font-family: 'Great Vibes', cursive,sans-serif;
+}
+.profile p{
+    font-family: 'Kalam', cursive, sans-serif, serif;
+}
+.My_skill{
+    margin-top: -300px;
+}
+.skill-row{
+    margin-right: 150px;
+    margin-top: -10px;
+}
+h2{
+    font-family: 'Great Vibes', cursive, sans-serif;
+    font-size: 4rem;
+}
+p{
+    font-family: 'Kalam', cursive, sans-serif, serif;
+    font-size: 3rem;
+}
+.p{
+    width: 25%;
+    float: left;
+}
+.q  {
+    width: 25%;
+    float: right;
+    margin-bottom: auto;
+}
+.contact-me{
+    margin-top: -30px;
+}
+hr{
+    width: 20%;
+    border-top:dotted 10px lightgray ;
+}
+.btn{
+    color: #FA4083;
+    text-decoration: none;
+    background-color: white;
+    font-family: 'Playfair Display', serif;
+    padding: 11px 25px;
+    display: inline-block;
+    border-radius: 5px 5px ;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.263);
+}
+.bottom-container{
+    background-color: #3BACB6;
+    margin-top: 100px;
+    padding-top: 20px   ;
+}
